@@ -1,3 +1,3 @@
 # Springer book downloader
 
-A simple script that downloads all the books offered by Springer during the covid19 quarantine
+A simple script to download all the books offered by Springer during the covid19 quarantine
